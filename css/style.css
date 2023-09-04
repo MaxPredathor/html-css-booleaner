@@ -26,16 +26,17 @@
     font-size: 40px;
     margin-top: 25px;
 }
-#grey {
+.grey {
     font-size: 15px;
-    color: lightgray;
+    color: rgb(171, 171, 171);
+    font-weight: bold;
 }
 #blue {
     color: aqua;
 }
 #small {
     font-size: 10px;
-    color: lightgray;
+    color: rgb(171, 171, 171);
     margin-bottom: 20px;
 }
 #alsosmall {
@@ -44,6 +45,7 @@
 .main-text {
     margin-top: 20px;
     margin-bottom: 25px;
+    font-weight: bold;
 }
 .yellow {
     background-color: yellow;
@@ -66,4 +68,19 @@
 }
 .width {
     width: 50%;
+}
+.image-container {
+    position: relative;
+    width: 20%;
+}
+.top-left {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: white;
+    font-weight: bold;
+}
+.fit {
+    width: auto;
+    max-width: 100%;
 }
