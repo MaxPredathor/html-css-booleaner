@@ -3,3 +3,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.blue-background {
+    width: 100vw;
+    height: 175px; 
+    background-color: lightblue;
+    background-image: url(/img/pattern.png);
+    position: relative;
+}
+
+#booleaners {
+    
+}
