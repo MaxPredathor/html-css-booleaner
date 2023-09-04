@@ -53,7 +53,8 @@
 .table1 {
     width: 1024px;
     font-weight: bold;
-    margin-top: 25px;;
+    margin-top: 25px;
+    border-spacing: 0px; 
 }
 .table-head {
     background-color: rgb(32, 169, 229);
