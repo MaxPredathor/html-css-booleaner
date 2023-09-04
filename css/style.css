@@ -11,8 +11,6 @@
     position: relative;
 }
 .container {
-    /* padding-left: 150px;
-    padding-right: 150px; */
     width: 1024px;
     margin: auto;
 
@@ -21,7 +19,8 @@
     position: absolute;
     height: 75%;
     width: 15%;
-    margin-top: 40px;
+    margin-top: 40px;   
+    margin-left: 25vw; 
 }
 .font {
     font-size: 70px;
@@ -44,4 +43,8 @@
 }
 .main-text {
     margin-top: 20px;
+    margin-bottom: 25px;
+}
+.yellow {
+    background-color: yellow;
 }
