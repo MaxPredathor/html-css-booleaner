@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+main,footer {
+    margin-left: 150px;
+}
+
 .blue-background {
     width: 100vw;
     height: 175px; 
@@ -12,10 +16,18 @@
     position: relative;
 }
 
-#booleaners {
+.margin-left {
+    margin-left: 150px;
+}
+
+.booleaner {
     position: absolute;
     height: 75%;
     width: 15%;
-    margin-left: 100px;
     margin-top: 40px;
+}
+
+.font {
+    font-size: 70px;
+    margin-top: 25px;
 }
