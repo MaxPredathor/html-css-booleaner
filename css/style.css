@@ -13,5 +13,9 @@
 }
 
 #booleaners {
-    
+    position: absolute;
+    height: 75%;
+    width: 15%;
+    margin-left: 100px;
+    margin-top: 40px;
 }
