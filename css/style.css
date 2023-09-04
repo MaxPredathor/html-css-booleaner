@@ -23,7 +23,7 @@
     margin-left: 25vw; 
 }
 .font {
-    font-size: 70px;
+    font-size: 40px;
     margin-top: 25px;
 }
 #grey {
@@ -47,4 +47,23 @@
 }
 .yellow {
     background-color: yellow;
+}
+.table1 {
+    width: 1024px;
+    font-weight: bold;
+    margin-top: 25px;;
+}
+.table-head {
+    background-color: rgb(32, 169, 229);
+    color: white;
+    text-align: left;
+}
+.tbody-background {
+    background-color: rgb(177, 229, 242);
+}
+.tbody-height {
+    height: 50px;
+}
+.width {
+    width: 50%;
 }
