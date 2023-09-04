@@ -50,6 +50,10 @@
 .yellow {
     background-color: yellow;
 }
+.padding-left {
+    padding-left: 15px;
+
+}
 .table1 {
     width: 1024px;
     font-weight: bold;
