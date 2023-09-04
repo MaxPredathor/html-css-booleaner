@@ -3,31 +3,44 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 main,footer {
     margin-left: 150px;
 }
-
 .blue-background {
     width: 100vw;
     height: 175px; 
-    background-color: lightblue;
+    background-color: rgb(78, 160, 255);
     background-image: url(/img/pattern.png);
     position: relative;
 }
-
 .margin-left {
     margin-left: 150px;
 }
-
 .booleaner {
     position: absolute;
     height: 75%;
     width: 15%;
     margin-top: 40px;
 }
-
 .font {
     font-size: 70px;
     margin-top: 25px;
+}
+#grey {
+    font-size: 15px;
+    color: lightgray;
+}
+#blue {
+    color: aqua;
+}
+#small {
+    font-size: 10px;
+    color: lightgray;
+    margin-bottom: 20px;
+}
+#alsosmall {
+    font-size: 12px;
+}
+.main-text {
+    margin-top: 20px;
 }
