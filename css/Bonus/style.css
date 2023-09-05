@@ -13,14 +13,13 @@
 .container {
     width: 1024px;
     margin: auto;
-
 }
 .booleaner {
     position: absolute;
     height: 75%;
     width: 15%;
     margin-top: 40px;   
-    margin-left: 31vw; 
+    margin-left: 29vw; 
 }
 .font {
     font-size: 40px;
